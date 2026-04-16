@@ -1,0 +1,50 @@
+# ── Python ────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.ruff_cache/
+.pytest_cache/
+.mypy_cache/
+
+# ── Backend runtime data ──────────────────────
+backend/data/uploads/
+backend/data/outputs/
+!backend/data/uploads/.gitkeep
+!backend/data/outputs/.gitkeep
+scripts/
+
+# ── Environment variables ─────────────────────
+.env
+.env.local
+.env.production
+
+# ── Node.js / Frontend ───────────────────────
+node_modules/
+frontend/.next/
+frontend/out/
+*.tsbuildinfo
+next-env.d.ts
+
+# ── IDE ───────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ── Logs ──────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Model cache (downloaded on first run) ─────
+# faster-whisper downloads models to ~/.cache/huggingface/
+# No need to commit these
