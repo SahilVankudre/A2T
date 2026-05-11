@@ -1,4 +1,4 @@
-# AIIT — AI-Powered Audio Transcription
+# AIIT : AI-Powered Audio Transcription
 
 > Self-hosted audio-to-text transcription with real-time progress, word-level timestamps, confidence scores, and multi-format export — powered by OpenAI's Whisper large-v3-turbo running on your local GPU.
 
