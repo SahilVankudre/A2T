@@ -1,10 +1,10 @@
-# VoxScript — AI-Powered Audio Transcription
+# AIIT — AI-Powered Audio Transcription
 
 > Self-hosted audio-to-text transcription with real-time progress, word-level timestamps, confidence scores, and multi-format export — powered by OpenAI's Whisper large-v3-turbo running on your local GPU.
 
 ---
 
-## What is VoxScript?
+## What is AIIT?
 
 VoxScript is an open-source transcription platform that runs entirely on your machine. Upload any audio file through the web interface, watch it process in real-time via WebSocket, and get accurate timestamped transcriptions you can download as TXT, SRT, VTT, or JSON.
 
