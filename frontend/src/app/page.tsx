@@ -123,7 +123,7 @@ export default function Home() {
               <AudioLines className="h-5 w-5 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-lg font-semibold leading-none tracking-tight">VoxScript</h1>
+              <h1 className="text-lg font-semibold leading-none tracking-tight">A2T</h1>
               <p className="text-[11px] text-muted-foreground mt-0.5">Audio-to-text transcription</p>
             </div>
           </div>
