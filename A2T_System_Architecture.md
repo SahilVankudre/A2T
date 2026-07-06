@@ -1,4 +1,4 @@
-# VoxScript System Architecture — Deep Dive
+# A2T System Architecture — Deep Dive
 
 ## How every component works, why each technology was chosen, and how data flows through the system
 
