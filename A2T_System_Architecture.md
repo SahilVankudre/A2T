@@ -858,6 +858,6 @@ npm run dev                   # Manual: full UI flow
 
 ---
 
-*This document covers everything about how the VoxScript system works internally.
+*This document covers everything about how the A2T system works internally.
 For the underlying Voice AI science, see the Voice AI Science Guide.
 For future improvements and alternatives, see the Future Roadmap document.*
