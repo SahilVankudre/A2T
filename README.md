@@ -6,7 +6,7 @@
 
 ## What is AIIT?
 
-VoxScript is an open-source transcription platform that runs entirely on your machine. Upload any audio file through the web interface, watch it process in real-time via WebSocket, and get accurate timestamped transcriptions you can download as TXT, SRT, VTT, or JSON.
+A2T is an open-source transcription platform that runs entirely on your machine. Upload any audio file through the web interface, watch it process in real-time via WebSocket, and get accurate timestamped transcriptions you can download as TXT, SRT, VTT, or JSON.
 
 **Your audio never leaves your machine.** There are no API keys, no per-minute charges, and no cloud dependencies.
 
